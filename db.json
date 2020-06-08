@@ -1,30 +1,35 @@
 {
   "contacts": [
     {
+      "id": "1",
       "first_name": "Marc-Alain",
       "last_name": "Tétreault",
       "email": "marc-alain@gmail.com",
       "public_key": "asdfa0f769asdg5a98s7asf9ag8a8sd7gags5das67as8d76asdg857ads5gda8s7ads8asd5adg856asd87g65"
     },
     {
+      "id": "2",
       "first_name": "Samuel",
       "last_name": "Tétreault",
       "email": "Samuel@gmail.com",
       "public_key": "asdfa0f769asdg5a98s7asf9ag8a8sd7gags5das67as8d76asdg857ads5gda8s7ads8asd5adg856asd87g65"
     },
     {
+      "id": "3",
       "first_name": "Elie",
       "last_name": "Tétreault",
       "email": "Elie@gmail.com",
       "public_key": "asdfa0f769asdg5a98s7asf9ag8a8sd7gags5das67as8d76asdg857ads5gda8s7ads8asd5adg856asd87g65"
     },
     {
+      "id": "4",
       "first_name": "Marc-Alain",
       "last_name": "Tétreault",
       "email": "Kyjauna@gmail.com",
       "public_key": "asdfa0f769asdg5a98s7asf9ag8a8sd7gags5das67as8d76asdg857ads5gda8s7ads8asd5adg856asd87g65"
     },
     {
+      "id": "5",
       "first_name": "Ding",
       "last_name": "Tétreault",
       "email": "Ding@gmail.com",
